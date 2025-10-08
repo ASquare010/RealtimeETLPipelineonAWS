@@ -329,12 +329,3 @@ uv sync
 3. Ensure code passes linting and tests
 4. Update documentation as needed
 5. Submit PR with clear description
-
-## License
-
-This project is licensed under the GPL License. See the [LICENSE](LICENSE) file for details.
-
----
-
-*This is a learning project*
-*Last Updated: July 2025*
